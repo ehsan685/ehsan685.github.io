@@ -17,7 +17,7 @@ console.log(test);
 ```
 
 
-### GitHub
+### Gi
 
 - Skapa ett [GitHub](https://github.com/) konto med din @edu.umea.se mail.
 
